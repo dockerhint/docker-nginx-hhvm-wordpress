@@ -1,4 +1,4 @@
-FROM phusion/baseimage:0.9.116
+FROM phusion/baseimage:0.9.16
 MAINTAINER Open BaseBox <open@basebox.org>
 
 RUN apt-get update
