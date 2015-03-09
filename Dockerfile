@@ -1,5 +1,5 @@
-FROM phusion/baseimage:0.9.11
-MAINTAINER Philipz <philipzheng@gmail.com>
+FROM phusion/baseimage:0.9.116
+MAINTAINER Open BaseBox <open@basebox.org>
 
 RUN apt-get update
 RUN apt-get -y upgrade
